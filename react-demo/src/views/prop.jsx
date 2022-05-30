@@ -7,4 +7,4 @@ export default function() {
             <Text text="Hello" />
         </div>
     );
-    }
+}
